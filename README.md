@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/shaikhyamin217" target="blank"><img src="https://img.shields.io/twitter/follow/shaikhyamin217?logo=twitter&style=for-the-badge" alt="shaikhyamin217" /></a> </p>
 
-- 🔭 I’m currently working on [Biggestask](https://biggestask.justcodenow.com/)
 
 - 🌱 I’m currently Mastering **JavaScript , React and Animations**
 
